@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "EditorUltimate",
+    "slug": "editor-ultimate",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
